@@ -1,12 +1,12 @@
 # docker-dev-env
-Just run 'docker-compose up -d'
+Just run 'docker-compose up -d'!
 
-# Access PMA : 
+## Access PMA : 
 localhost:8000
 
-# Access Apache :
+## Access Apache :
 localhost:8001
 
-# Change PHP version
+## Change PHP version
 > File 'api'
 Change the first line (supported tags : https://hub.docker.com/_/php/): php:your-version
