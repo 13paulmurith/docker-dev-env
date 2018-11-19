@@ -43,7 +43,7 @@ services:
             - "8000:80"
         environment:
             - MYSQL_USER=api
-            - MYSQL_PASSWORD=9ca10ebf69289f3e2ea3db024408c92b
-            - MYSQL_ROOT_PASSWORD=55dfc8690afade73f9a156ca3f8aa74e
+            - MYSQL_PASSWORD=passwordstrong
+            - MYSQL_ROOT_PASSWORD=passwordstrong
             - PMA_HOST=db_api
 
