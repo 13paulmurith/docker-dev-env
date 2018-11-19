@@ -4,7 +4,7 @@ Just run 'docker-compose up -d'
 # Access PMA : 
 localhost:8000
 
-# Access Apache:
+# Access Apache :
 localhost:8001
 
 # Change PHP version
