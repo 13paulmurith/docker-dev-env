@@ -4,8 +4,9 @@ networks:
   web:
     driver: bridge
 
+
 services:
-    api:
+    web:
         build:
            context: .
            dockerfile: api
